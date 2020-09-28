@@ -2,3 +2,4 @@ GITの練習をします
 .git add
 .git commiti
 .git rm
+.git status
